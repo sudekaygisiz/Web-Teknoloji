@@ -1,4 +1,13 @@
-body{
-    background-color: bisque;
-    
-}
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  #anasayfa {
+    background-color: #f8f9fa;
+  }
+  
