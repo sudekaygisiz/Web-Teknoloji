@@ -36,3 +36,6 @@ Projeyi tarayıcınızda çalıştırmak için `index.html` dosyasını açmanı
 ---
 
 📌 Bu proje hem öğrenmek isteyenlere rehber olacak hem de benim için bir portfolyo çalışmasıdır. Katkı sağlamak isterseniz fork'layarak öneride bulunabilirsiniz 😊
+
+> ⚠️ **Not:** Bu proje halen yapım aşamasındadır. İçerikler ve tasarım sürekli olarak geliştirilmektedir. Geri bildirimleriniz benim için çok değerlidir.
+
